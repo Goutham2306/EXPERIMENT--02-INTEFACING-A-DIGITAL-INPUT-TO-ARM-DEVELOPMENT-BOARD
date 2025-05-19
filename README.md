@@ -85,12 +85,13 @@ void push_button(){
 ```
 
 ## Output  :
-![image](https://github.com/user-attachments/assets/1b13c2b5-015c-47b0-8268-13821b7fb024)
+![image](https://github.com/user-attachments/assets/641a6a26-99b1-4299-8336-96dc60b31e2f)
 
+![image](https://github.com/user-attachments/assets/c3aa0846-cf36-4013-83c8-9b3089040b36)
 
  
 ## layout of the circuit 
- ![image](https://github.com/user-attachments/assets/8eb8203e-402a-4f74-916d-57185de450bb)
+![image](https://github.com/user-attachments/assets/6104d55d-1694-4da8-bd79-8fa3896f1d1b)
 
 
  
